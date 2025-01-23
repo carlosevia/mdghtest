@@ -1,6 +1,7 @@
-# Two
+---
+title: Two
+---
 
-* TOC
-{:toc}
+# Two
 
 Life is bad
