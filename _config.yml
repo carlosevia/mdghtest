@@ -1,4 +1,7 @@
 remote_theme: pages-themes/tactile@v0.2.0
 title: My website
 description: A lovely website
-markdown: kramdown
+
+nav:
+  - Home: index.md
+  - Two: two.md
