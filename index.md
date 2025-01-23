@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 # Hello
 
 {% for page in site.pages %}
