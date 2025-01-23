@@ -1,7 +1,7 @@
 # Hello
 
-- [Home](index.md)
-- [Two](two.md) 
-
+{% for page in site.pages %}
+- [{{ page.title | default: page.name }}]({{ page.url | relative_url }})
+{% endfor %}
 
 Life is good
